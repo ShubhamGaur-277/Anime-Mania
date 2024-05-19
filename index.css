@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  background-position: right;
+  background-size:auto;
+  background-repeat: no-repeat;
+}
+
+.blog1 {
+  color: white;
+}
